@@ -1,3 +1,6 @@
 /.idea
 /build
+/.gradle
 g3-address-book.iml
+/bower_components
+/db/*.db

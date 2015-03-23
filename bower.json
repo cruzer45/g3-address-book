@@ -1,0 +1,27 @@
+{
+  "name": "g3-address-book",
+  "version": "0.1",
+  "authors": [
+    "Maurice Rogers <cruzer45@gmail.com>"
+  ],
+  "description": "Sample application for the grails 3 framework",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootswatch-dist": "slate",
+    "bootstrap-datepicker": "latest",
+    "cropper": "latest",
+    "fontawesome":"latest"
+  },
+  "install": {
+    "path": "grails-app/assets/libs"
+  }
+}
